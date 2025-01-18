@@ -1,3 +1,11 @@
+Fun over Money v0.2 - 1/18/2025
+Total Dev Time counter will be removed
+- Added Potion effects depending on the Steel Armor you wear
+	- Steel Helmet: Luck 5
+	- Steel Chestplate: Resistence 2
+	- Steel Leggings: Regeneration 3
+	- Steel Boots: Slow Falling 1
+
 Fun over Money v0.1.2 - 1/18/2025
 Total Dev Time: 1 hour and 6 minutes
 - Fixed Lit Copper Light Recipe (removed the coal)
