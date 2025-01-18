@@ -1,0 +1,5 @@
+Fun over Money v0.1
+- Added Kings Crown
+- Added Quick Cobble recipe (using a bunch of the stones you get while mining)
+- Added Copper Lights
+	Unlit and lit versions
