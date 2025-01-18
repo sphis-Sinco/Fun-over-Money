@@ -1,9 +1,10 @@
 Fun over Money v0.2 - 1/18/2025
 Total Dev Time counter will be removed
-- Added Steel Helmet Potion Effect: Luck 5 for 5 ticks
-- Added Steel Chestplate Potion Effect: Resistence 5 for 5 ticks
-- Added Steel Leggings Potion Effect: Regeneration 2 for 5 ticks
-- Added Steel Boots Potion Effect: Slow Falling 1 for 5 ticks
+- Added Potion Effects for Steel Armor
+	- Added Steel Helmet Potion Effect: Luck 5 for 5 ticks
+	- Added Steel Chestplate Potion Effect: Resistence 5 for 5 ticks
+	- Added Steel Leggings Potion Effect: Saturation 2 for 5 ticks
+	- Added Steel Boots Potion Effect: Slow Falling 1 for 5 ticks
 - Added Python Script for generating gamebanana bulk add changelogs (script on github)
  
 Fun over Money v0.1.2 - 1/18/2025
