@@ -1,4 +1,13 @@
-Fun over Money v0.1
+Fun over Money v0.1.1 - 1/18/2025
+Total Dev Time: 1 hour
+- Added Recipe Unlocking for Unlit Copper Light
+- Added Recipe for Lit Copper Lights
+- Changed RecipeUnlocking procedure to include local text "recipe2" (aka 2 recipes unlocked at once)
+- Added Terminal Block (Creative Only)
+	- Logs Mod Version
+
+Fun over Money v0.1 - 1/18/2025
+Total Dev Time: 1 day
 - Added Kings Crown
 - Added Quick Cobble recipe (using a bunch of the stones you get while mining)
 - Added Copper Lights
