@@ -1,0 +1,3 @@
+[submodule "developer/scripts/gamebanana_changelog_generator"]
+	path = developer/scripts/gamebanana_changelog_generator
+	url = https://github.com/sphis-Sinco/gamebanana-bulk-changelog-generator/
