@@ -7,6 +7,7 @@ Total Dev Time counter will be removed
 	- Added Steel Boots Potion Effect: Slow Falling 1 for 5 ticks
 - Added Python Script for generating gamebanana bulk add changelogs (script on github)
 - Added Mod Version Overlay to Main Menu
+- Added Structure that generates in Plains Biomes (Trumen)
  
 Fun over Money v0.1.2 - 1/18/2025
 Total Dev Time: 1 hour and 6 minutes
