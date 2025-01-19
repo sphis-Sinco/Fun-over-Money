@@ -13,6 +13,7 @@ Total Dev Time counter will be removed
 	- Added Crafting Recipe for Instant Ramen
 	- Added Crafting Recipe for Ramen Noodles
 - Added Extended Food Creative Tab
+- Added Python Script for recommending a version string (script on github)
  
 Fun over Money v0.1.2 - 1/18/2025
 Total Dev Time: 1 hour and 6 minutes
