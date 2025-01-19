@@ -1,0 +1,6 @@
+- Added Kings Crown
+- Added Quick Cobble recipe (using a bunch of the stones you get while mining)
+- Added Copper Lights
+	Unlit and lit versions
+||
+v0.1
