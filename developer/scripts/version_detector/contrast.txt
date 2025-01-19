@@ -11,6 +11,6 @@
 	- Added Crafting Recipe for Instant Ramen
 	- Added Crafting Recipe for Ramen Noodles
 - Added Extended Food Creative Tab
-- Added Python Script for recommending a version string (script on github)
+- Added Python Script for recommending a version string
 ||
 v0.2
