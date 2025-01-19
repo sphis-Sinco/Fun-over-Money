@@ -1,4 +1,4 @@
-Fun over Money v0.2 - 1/18/2025
+Fun over Money v0.2 - 1/19/2025
 Total Dev Time counter will be removed
 - Added Potion Effects for Steel Armor
 	- Added Steel Helmet Potion Effect: Luck 5 for 5 ticks
@@ -8,6 +8,10 @@ Total Dev Time counter will be removed
 - Added Python Script for generating gamebanana bulk add changelogs (script on github)
 - Added Mod Version Overlay to Main Menu
 - Added Structure that generates in Plains Biomes (Trumen)
+- Added Instant Ramen
+	- Added Ramen Noodles
+	- Added Crafting Recipe for Instant Ramen
+	- Added Crafting Recipe for Ramen Noodles
  
 Fun over Money v0.1.2 - 1/18/2025
 Total Dev Time: 1 hour and 6 minutes
